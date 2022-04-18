@@ -1,5 +1,5 @@
 <img src = "assets/name.gif#gh-light-mode-only" alt = "name"/>
-<img src = "assets/namedark.gif#gh-dark-mode-only" alt = "name"/>
+<img src = "assets/namedark.gif#gh-dark-mode-only" alt = "namedark"/>
 
 
 - 🔭 I’m currently working on ...
