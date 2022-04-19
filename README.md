@@ -1,6 +1,8 @@
-<img src = "https://raw.githubusercontent.com/Shuktika15/Shuktika15/master/assets/name.gif#gh-light-mode-only" alt = "name"/>
-<img src = "https://raw.githubusercontent.com/Shuktika15/Shuktika15/master/assets/namedark.gif#gh-dark-mode-only" alt = "namedark"/>
-
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Shuktika15/Shuktika15/master/assets/name.gif#gh-light-mode-only" />
+    <img src="https://raw.githubusercontent.com/Shuktika15/Shuktika15/master/assets/namedark.gi#gh-dark-mode-only" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
