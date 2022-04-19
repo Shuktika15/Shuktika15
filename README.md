@@ -1,6 +1,6 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Shuktika15/Shuktika15/master/assets/name.gif#gh-light-mode-only" />
-    <img src="https://raw.githubusercontent.com/Shuktika15/Shuktika15/master/assets/namedark.gi#gh-dark-mode-only" />
+    <img src="./assets/name.png#gh-light-mode-only" />
+    <img src="./assets/text.png#gh-dark-mode-only" />
   </a>
 </p>
 
